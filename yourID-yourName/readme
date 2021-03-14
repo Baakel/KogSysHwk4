@@ -1,0 +1,37 @@
+The extracted homework has the following structure:
+
+yourID-yourName
+├── ex2
+│   ├── grid_world.py
+│   └──  __init__.py
+│
+├── ex4
+│   ├── __init__.py
+│   ├── mdp.py
+│   └── misc.py
+│
+├── ex2.ipynb
+├── ex4.ipynb
+├── hw4.pdf
+└── readme.txt
+
+Folder ex2 and ex4 contain the python scripts for Task 2 (Search) and 4 (Optimal Policy) respectively. And ex2.ipynb and ex4.ipynb are the coding notebook where you should type in your answers for Task 2 and 4 respectively.
+When you submit your homework, you should rename the folder, and add a hw4_sol.pdf file for pen and paper solutions of Task 1 (Language Models) and Task3 (TamagotchAI) respectively. Your renamed folder should look like this (example):
+
+usausa-Donald-Trump
+├── ex2
+│   ├── grid_world.py
+│   └──  __init__.py
+│
+├── ex4
+│   ├── __init__.py
+│   ├── mdp.py
+│   └── misc.py
+│
+├── ex2.ipynb
+├── ex4.ipynb
+├── hw4.pdf
+├── hw4_sol.pdf
+└── readme.txt
+
+Afterwards, compress the parent folder (the one with your name and id) to a zip file and upload it to ILIAS.
